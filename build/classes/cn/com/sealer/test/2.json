@@ -1,0 +1,33 @@
+{
+    "errno":0,
+    "data":{
+        "word_name":"do",
+        "symbols":[
+            {
+                "ph_am":"du",
+                "ph_en":"du:",
+                "parts":[
+                    {
+                        "part":"aux.",
+                        "means":[
+                            "\uff08\u6784\u6210\u7591\u95ee\u53e5\u548c\u5426\u5b9a\u53e5\uff09",
+                            "\uff08\u4ee3\u66ff\u52a8\u8bcd\uff09",
+                            "\uff08\u7528\u4e8e\u52a0\u5f3a\u8bed\u6c14\uff09"
+                        ]
+                    },
+                    {
+                        "part":"vt.& vi.",
+                        "means":[
+                            "\u505a",
+                            "\u5e72",
+                            "\u5b66\u4e60",
+                            "\u7814\u7a76"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "to":"zh",
+    "from":"en"
+}

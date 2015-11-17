@@ -1,0 +1,83 @@
+{
+    "date":"2015-11-17",
+    "error":0,
+    "results":[
+        {
+            "weather_data":[
+                {
+                    "date":"周二 11月17日 (实时：-5℃)",
+                    "dayPictureUrl":"http://api.map.baidu.com/images/weather/day/qing.png",
+                    "nightPictureUrl":"http://api.map.baidu.com/images/weather/night/qing.png",
+                    "weather":"晴",
+                    "temperature":"-1 ~ -8℃",
+                    "wind":"北风微风"
+                },
+                {
+                    "date":"周三",
+                    "dayPictureUrl":"http://api.map.baidu.com/images/weather/day/duoyun.png",
+                    "nightPictureUrl":"http://api.map.baidu.com/images/weather/night/duoyun.png",
+                    "weather":"多云",
+                    "temperature":"-1 ~ -7℃",
+                    "wind":"东北风微风"
+                },
+                {
+                    "date":"周四",
+                    "dayPictureUrl":"http://api.map.baidu.com/images/weather/day/xiaoxue.png",
+                    "nightPictureUrl":"http://api.map.baidu.com/images/weather/night/duoyun.png",
+                    "weather":"小雪转多云",
+                    "temperature":"-3 ~ -8℃",
+                    "wind":"东风微风"
+                },
+                {
+                    "date":"周五",
+                    "dayPictureUrl":"http://api.map.baidu.com/images/weather/day/duoyun.png",
+                    "nightPictureUrl":"http://api.map.baidu.com/images/weather/night/duoyun.png",
+                    "weather":"多云",
+                    "temperature":"-1 ~ -9℃",
+                    "wind":"东北风微风"
+                }
+            ],
+            "pm25":"89",
+            "index":[
+                {
+                    "des":"天气寒冷，建议着厚羽绒服、毛皮大衣加厚毛衣等隆冬服装。年老体弱者尤其要注意保暖防冻。",
+                    "zs":"寒冷",
+                    "title":"穿衣",
+                    "tipt":"穿衣指数"
+                },
+                {
+                    "des":"较适宜洗车，未来一天无雨，风力较小，擦洗一新的汽车至少能保持一天。",
+                    "zs":"较适宜",
+                    "title":"洗车",
+                    "tipt":"洗车指数"
+                },
+                {
+                    "des":"天气较好，同时又有微风伴您一路同行。稍冷，较适宜旅游，您仍可陶醉于大自然的美丽风光中。",
+                    "zs":"较适宜",
+                    "title":"旅游",
+                    "tipt":"旅游指数"
+                },
+                {
+                    "des":"天气较凉，较易发生感冒，请适当增加衣服。体质较弱的朋友尤其应该注意防护。",
+                    "zs":"较易发",
+                    "title":"感冒",
+                    "tipt":"感冒指数"
+                },
+                {
+                    "des":"天气较好，但考虑天气寒冷，推荐您进行室内运动，户外运动时请注意保暖并做好准备活动。",
+                    "zs":"较不宜",
+                    "title":"运动",
+                    "tipt":"运动指数"
+                },
+                {
+                    "des":"紫外线强度较弱，建议出门前涂擦SPF在12-15之间、PA+的防晒护肤品。",
+                    "zs":"弱",
+                    "title":"紫外线强度",
+                    "tipt":"紫外线强度指数"
+                }
+            ],
+            "currentCity":"长春"
+        }
+    ],
+    "status":"success"
+}

@@ -1,0 +1,43 @@
+{
+    "menu":{
+        "button":[
+            {
+                "name":"点赞",
+                "sub_button":[
+                    
+                ],
+                "type":"click",
+                "key":"11"
+            },
+            {
+                "name":"sealer网站",
+                "sub_button":[
+                    
+                ],
+                "type":"view",
+                "url":"http://www.sealer.com.cn"
+            },
+            {
+                "name":"附加功能",
+                "sub_button":[
+                    {
+                        "name":"扫一扫",
+                        "sub_button":[
+                            
+                        ],
+                        "type":"scancode_push",
+                        "key":"31"
+                    },
+                    {
+                        "name":"我的位置",
+                        "sub_button":[
+                            
+                        ],
+                        "type":"location_select",
+                        "key":"32"
+                    }
+                ]
+            }
+        ]
+    }
+}
